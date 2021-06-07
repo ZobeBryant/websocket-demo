@@ -1,19 +1,8 @@
 # websocket-demo
 
-## Project setup
-```
-npm install
-```
+## 内容
+客户端和服务器websocket通信，此demo具有心跳检测和超时重连设置
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 服务器启动代码
+在src的server目录下输入: node server.js
+![img](demo.png)
